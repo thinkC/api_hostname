@@ -1,0 +1,51 @@
+const hostnames = [
+  {
+    id: 1, 
+    user: "europe\\oyewob",
+    computer: "lonwv010193",
+    firstname: "Babatunde",
+    lastname: "Oyewo",
+    username: "oyewob",
+  },
+   {
+    id: 2, 
+    user: "europe\\mikel", 
+    computer: "lonwv987676",
+    firstname: "Mile",
+    lastname: "Lawson",
+    username: "mikel",
+  },
+   {
+    id: 3, 
+    user: "americas\\jordanm", 
+    computer: "amewv834109",
+    firstname: "Jordan",
+    lastname: "Matthew",
+    username: "jordanm",
+  },
+   {
+    id: 4, 
+    user: "americas\\susang", 
+    computer: "amewv164358",
+    firstname: "Susan",
+    lastname: "George",
+    username: "susang",
+  },
+   {
+    id: 5, 
+    user: "asia\\jamesn", 
+    computer: "asiwv830163",
+    firstname: "James",
+    lastname: "Nelson",
+    username: "jamesn",
+  },
+    {
+    id: 6, 
+    user: "asia\\daniell", 
+    computer: "asiwv654312",
+    firstname: "Daniel",
+    lastname: "Lawrence",
+    username: "daniell",
+  },
+]
+module.exports = { hostnames }
